@@ -1,6 +1,12 @@
 # Dependencies
 node_modules/
 
+# WhatsApp Sessions (contains authentication data)
+sessions/
+session/
+.wwebjs_auth/
+.wwebjs_cache/
+
 # Environment variables
 .env
 .env.local
